@@ -31,7 +31,7 @@
         "X-Frame-Options": "SAMEORIGIN",
         "X-XSS-Protection": "1; mode=block",
         "X-Content-Type-Options": "nosniff",
-        "Access-Control-Allow-Origin": "http://localhost:4200",
+        "Access-Control-Allow-Origin": "https://pure-cove-84899.herokuapp.com",
         "Access-Control-Allow-Methods": "POST, GET, PUT, DELETE, OPTIONS",
         "Access-Control-Allow-Headers": "Origin, Content-Type, Accept, Authorization, Token, X-Spree-Token, X-Spree-Order-Token, X-Spree-Order-Id",
         "Access-Control-Max-Age": "1728000",
