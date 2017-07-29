@@ -7,7 +7,7 @@ module Spree
         include Singleton
 
         cattr_accessor :cors_whitelist
-        @@cors_whitelist = "http://localhost:4200"
+        @@cors_whitelist = "https://pure-cove-84899.herokuapp.com/"
 
       end
 
